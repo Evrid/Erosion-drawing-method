@@ -1,16 +1,10 @@
 # Erosion-stroke-for-painting
 
+detailed how to use see
+
+how to use.docx
 
 
-https://github.com/johnopsahl/IfThenPaint_Image2Gcode
-
-First create a file called data beside the python codes, then create a txt called image_properties.txt, then script run sequence:
-
-add_image_properties.py
-
-size_image.py
-
-quantisize_image.py
 
 
 
@@ -27,5 +21,6 @@ https://blnlabs.com/generate-g-code-from-image-using-inkscape-and-python/
 
 G code viewer
 https://ncviewer.com/
+
 
 
