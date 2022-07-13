@@ -4,6 +4,7 @@ detailed how to use see
 
 how to use.docx
 
+and create test.txt and test2.txt in the same folder
 
 
 
