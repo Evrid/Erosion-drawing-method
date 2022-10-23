@@ -6,9 +6,6 @@ how to use.docx
 
 and create test.txt and test2.txt in the same folder
 
-![image](https://user-images.githubusercontent.com/107913134/197391749-6c9741a2-9e1d-4033-979a-b23f8039db84.png)
-
-
 
 Other ideas:
 
